@@ -10,6 +10,8 @@ Please run **setup.sh** to download images and pre-calculated [VggNet](http://ar
 
 For more details, please run *NVC_dataset_demo.ipynb*. You are also welcome to look into the python class in  *./python_lib/class_nvc_dataset.py*
 
+If you get a "bad request" error message when opening NVC_dataset_demo.ipynb, you probably need to update your ipython. You can also run NVC_dataset_demo.py instead.
+
 ## Citation
 If you find this dataset and annotations useful in your research, please consider citing:
 
