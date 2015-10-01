@@ -2,8 +2,7 @@
 """Python class of util function of novel visual concepts dataset.
 
 TODO:
-  1. Add extracted image features
-  2. Evaluation functions for the dataset
+  1. Evaluation functions for the dataset
 """
 import os
 import logging

@@ -1,4 +1,6 @@
-# The Novel Visual Concept (NVC) dataset [project page](http://www.stat.ucla.edu/~junhua.mao/projects/child_learning.html)
+# The Novel Visual Concept (NVC) dataset
+
+[project page](http://www.stat.ucla.edu/~junhua.mao/projects/child_learning.html)
 
 ## Introduction
 
