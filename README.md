@@ -15,10 +15,10 @@ If you get a "bad request" error message when opening NVC_dataset_demo.ipynb, yo
 ## Citation
 If you find this dataset and annotations useful in your research, please consider citing:
 
-    @article{mao2015learning,
+    @inproceedings{mao2015learning,
       title={Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images},
       author={Mao, Junhua and Xu, Wei and Yang, Yi and Wang, Jiang and Huang, Zhiheng and Yuille, Alan},
-      journal={ICCV},
+      booktitle={ICCV},
       year={2015}
     }
 
